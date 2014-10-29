@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WHOIS</string>
+    <string name="search_hint">Domain name</string>
+    <string name="lookup_url">http://whoiz.herokuapp.com/lookup?url=%s</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-7183523301565370/4889425301</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <style name="MyStyle" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/app_background</item>
+    </style>
+</resources>
